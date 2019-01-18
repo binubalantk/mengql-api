@@ -1,7 +1,8 @@
 
 ## Welcome to the MENGQL-API end point
 
-The MENGQL-API is an easy to deploy boiler-plate for starting the developement of GraphQL-API end point service
+The MENGQL-API is an easy to deploy boiler-plate for starting the developement of GraphQL-API end point service.
+Go to documentation: [Mengql-API](https://mengql-api.firebaseapp.com/)
 
 ### Installation 
 ``` 
@@ -32,3 +33,5 @@ docker-compose up -d
 - Mocha-chai-should-sinon test platforms
 - Unit testing of models and libraries
 - Integration testing for API end points
+
+Visit official documentation [Mengql-API](https://mengql-api.firebaseapp.com/)
